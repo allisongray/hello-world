@@ -1,2 +1,2 @@
 # hello-world
-Fall 2019 Library workshop repo example.
+Fall 2019 library workshop repo example.
